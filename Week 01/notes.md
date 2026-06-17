@@ -398,15 +398,6 @@
 ----------------------------------------------------------------
 
 
-----------------------------------------------------------------
-  WHAT'S NEXT
-----------------------------------------------------------------
-
-  - Two pointer technique
-  - Sliding window
-  - More array problems
-  - Then Linked Lists
-
 ================================================================
   Notes written during summer prep.
   These are my personal takeaways, not a textbook.
