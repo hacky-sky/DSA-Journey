@@ -502,6 +502,6 @@ int main()
     {int n;
     cout<<"Enter the no.: ";
     cin>>n;
-    pattern2(n);}
+    pattern19(n);}
     return 0;
 }
