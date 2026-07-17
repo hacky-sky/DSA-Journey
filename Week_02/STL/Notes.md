@@ -1,7 +1,6 @@
 ================================================================
                     WEEK 02 - DSA JOURNEY NOTES
                     STL - Vectors, Pairs, Iterators & Algorithms
-                    RIMT University | BCA | Summer Prep
 ================================================================
   These are my personal notes. Written by me, for me.
   If something took me time to figure out, I wrote it here
