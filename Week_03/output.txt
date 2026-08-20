@@ -1,1 +1,3 @@
-Enter the position: 12586269025
+Enter size of array: 
+Enter elements of array:
+Hihest =10(freq 3 )lowest = 5(freq 1)
